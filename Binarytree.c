@@ -145,4 +145,3 @@ struct node
         post_order_traversal(root);
         return 0;
     }    
-}
